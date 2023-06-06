@@ -12,9 +12,11 @@ State New Jersey: 388821 deaths, 11.11% of total US deaths
 
 State Massachusetts: 228975 deaths, 6.54% of total US deaths
 
+# Reference
+
 Thanks and credits to : **Practical Data Science** :)
 
-For reference :(link)[https://practicaldatascience.co.uk/data-science/how-to-send-a-slack-message-in-python-using-webhooks]
+For reference :[link](https://practicaldatascience.co.uk/data-science/how-to-send-a-slack-message-in-python-using-webhooks)
 
 # Credits
 Credits to Qure.ai for providing the opportunity to work on the Python automated Slack project as a Data Engineering Intern. The project allowed me to gain valuable experience in developing automated solutions and integrating with Slack.
